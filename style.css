@@ -1087,6 +1087,9 @@ button:focus {
 	.mu-skill-progress-bar h3 {
 		margin-top: 0;
 	}
+	.mu-about-area {
+		padding-top: 10%;
+	}
 
 	
 }
@@ -1299,10 +1302,12 @@ button:focus {
 	}
 
 	.mu-featured-area {
-		padding: 20% 5%;
+		padding: 50% 5%;
 	}
 
-				
+	.mu-about-area {
+		padding-top: 15%;
+	}			
 	
 }
 
