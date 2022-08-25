@@ -21,7 +21,7 @@ const testimonials = [
 		name: "Sanjay Kumar",
 		position: "Frontend Developer",
 		photo: "https://qph.cf2.quoracdn.net/main-thumb-67588218-200-udxkzdnxuzksoxwslmxawqpuadgzjirt.jpeg",
-		text: "I had my concerns that due to a tight deadline E-Commerce project can't be done. But this guy proved me wrong not only he delivered an outstanding work but he managed to deliver 1 day prior to the deadline. And when I asked for some revisions he made them in MINUTES. I'm looking forward to work with him again and I totally recommend him. Thanks again!",
+		text: "I had my concerns that due to a tight deadline E-Commerce project can't be done. But this guy proved me wrong not only he delivered an outstanding work but he managed to deliver in 1 Month prior to the deadline. And when I asked for some revisions he made them in MINUTES. I'm looking forward to work with him again and I totally recommend him. Thanks again!",
 	},
 ];
 
