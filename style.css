@@ -1414,12 +1414,12 @@ button:focus {
 }
 
 .card0 {
-	background: url("/assets/img/Img.jpeg") center center no-repeat;
+	background: url("https://media.licdn.com/dms/image/D4D03AQFWRijU_ZR1YA/profile-displayphoto-shrink_800_800/0/1671558673463?e=2147483647&v=beta&t=IkisJw1p8LzIM-1sK7qgrLp43KukLyCOFi6PojROKas") center center no-repeat;
 	background-size: 300px;
 }
 
 .card0:hover {
-	background: url("/assets/img/Img.jpeg") left center no-repeat;
+	background: url("https://media.licdn.com/dms/image/D4D03AQFWRijU_ZR1YA/profile-displayphoto-shrink_800_800/0/1671558673463?e=2147483647&v=beta&t=IkisJw1p8LzIM-1sK7qgrLp43KukLyCOFi6PojROKas") left center no-repeat;
 	background-size: 400px;
 }
 
